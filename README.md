@@ -14,11 +14,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Architecture                          | <a href="https://github.com/Rootcipher8112/-Enterprise-Network-Lab">Enterprise Network Lab</a>|
 | DHCP, DNS, Remote Access, Group Policies      | <a href="https://github.com/Rootcipher8112/-Enterprise-Network-Lab">Enterprise Network Lab</a>|
 | Operation Systems Windows and Linux           | <a href="https://github.com/Rootcipher8112/-Enterprise-Network-Lab">Enterprise Network Lab</a>|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR         |<a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
 | AI integrations and Automations for business    | <a href="https://synergy-ai.square.site">Synergy-AI</a> |
 
 ## Tools
