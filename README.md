@@ -11,9 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Architecture                          | <a href="https://github.com/Rootcipher8112/-Enterprise-Network-Lab">Enterprise Network Lab</a>|
-| DHCP, DNS, Remote Access, Group Policies      | <a href="https://github.com/Rootcipher8112/-Enterprise-Network-Lab">Enterprise Network Lab</a>|
-| Operation Systems Windows and Linux           | <a href="https://github.com/Rootcipher8112/-Enterprise-Network-Lab">Enterprise Network Lab</a>|
+| Network Architecture                          | <a href="https://github.com/Rootcipher8112/Enterprise-Network-Lab">Enterprise Network Lab</a>|
+| DHCP, DNS, Remote Access, Group Policies      | <a href="https://github.com/Rootcipher8112/Enterprise-Network-Lab">Enterprise Network Lab</a>|
+| Operation Systems Windows and Linux           | <a href="https://github.com/Rootcipher8112/Enterprise-Network-Lab">Enterprise Network Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
 | Security Automation with Shuffle SOAR         |<a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
