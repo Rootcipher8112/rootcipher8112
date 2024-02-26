@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
 | AI integrations and Automations for business    | <a href="https://synergy-ai.square.site">Synergy-AI</a> |
 
-## Tools
+## Tools 
 
 ### Network
 <div>
@@ -30,18 +30,37 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-4B8BBE?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-990000?&style=for-the-badge&logo=TheHive&logoColor=white" />
-</div>
-
 ### Cloud 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?&style=for-the-badge&logo=DigitalOcean&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linode-00A76F?&style=for-the-badge&logo=Linode&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4B8BBE?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-990000?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</div>
+
+### Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-0077CC?&style=for-the-badge&logo=autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-AC3973?&style=for-the-badge&logo=volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redline-FF0000?&style=for-the-badge&logo=fireeye&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KAPE-004B87?&style=for-the-badge&logo=kape&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetworkMiner-009BDB?&style=for-the-badge&logo=networkminer&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-DB4437?&style=for-the-badge&logo=velociraptor&logoColor=white" />
+</div>
+
+### Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-Brim-1A1A1A?&style=for-the-badge&logo=brim&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenCTI-0099FF?&style=for-the-badge&logo=opencti&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Yara-00FF00?&style=for-the-badge&logo=yara&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MISP-FF6600?&style=for-the-badge&logo=misp-project&logoColor=white" />
 </div>
 
 ### AI
@@ -55,6 +74,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SOC_Level_1-3498DB?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-CompTIA_IT_Operations_Specialist-0077CC?&style=for-the-badge&logo=compTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Lean_Six_Sigma_Green_Belt-28a745?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZElEQVR42mJ8fPBx+AwhEIAVmiMjMFCAQcATiM7kxgAkNgwG9IiKoAAAAASUVORK5CYII=" />
 </div>
