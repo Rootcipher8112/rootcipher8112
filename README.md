@@ -19,7 +19,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Rootcipher8112/SOC-Automation-Project">SOC Automation Lab</a>|
+| Communication Skills                          | <a href="https://github.com/Rootcipher8112/Security-Incident-Response-Form">Security Incident Response Form</a>|
+| Incident Management and Response              | <a href="https://github.com/Rootcipher8112/Security-Incident-Response-Form">Security Incident Response Form</a>|
+| Risk Assessment and Impact Analysis           | <a href="https://github.com/Rootcipher8112/Security-Incident-Response-Form">Security Incident Response Form</a>|
+| Detail-Oriented Documentation                 | <a href="https://github.com/Rootcipher8112/Security-Incident-Response-Form">Security Incident Response Form</a>|
+| Security Analysis and Critical Thinking       | <a href="https://github.com/Rootcipher8112/Incident-Response-Report">Incident Response Report</a>|
+| Strategic Planning and Recommendations        | <a href="https://github.com/Rootcipher8112/Incident-Response-Report">Incident Response Report</a>|
+| Training and Awareness Program Development    | <a href="https://github.com/Rootcipher8112/Incident-Response-Report">Incident Response Report</a>|
+| Technology Proficiency                        | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
+| Advanced Security Infrastructure Design       | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
+| Policy Development and Compliance             | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
+| Project Management and Implementation         | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
 | AI integrations and Automations for business    | <a href="https://synergy-ai.square.site">Synergy-AI</a> |
+
 
 ## Tools 
 
