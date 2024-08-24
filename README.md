@@ -52,10 +52,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Linode-00A76F?&style=for-the-badge&logo=Linode&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM / EDR
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-4B8BBE?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-0077CC?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
     <img src="https://img.shields.io/badge/-TheHive-990000?&style=for-the-badge&logo=TheHive&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
@@ -98,4 +99,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Enterprise Network Lab
 - SOC Automation Project
+- Security Incident Response Form
+- Incident Response Report
+- Supply Chain Risk Analysis
 - Synergy-AI
+
