@@ -26,6 +26,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Analysis and Critical Thinking       | <a href="https://github.com/Rootcipher8112/Incident-Response-Report">Incident Response Report</a>|
 | Strategic Planning and Recommendations        | <a href="https://github.com/Rootcipher8112/Incident-Response-Report">Incident Response Report</a>|
 | Training and Awareness Program Development    | <a href="https://github.com/Rootcipher8112/Incident-Response-Report">Incident Response Report</a>|
+| Supply Chain Risk Management                  | <a href="https://github.com/Rootcipher8112/Supply-Chain-Risk-Analysis">Supply Chain Risk Analysis</a>|
+| Vendor Management and Evaluation              | <a href="https://github.com/Rootcipher8112/Supply-Chain-Risk-Analysis">Supply Chain Risk Analysis</a>|
+| Process Improvement and Quality Assurance     | <a href="https://github.com/Rootcipher8112/Supply-Chain-Risk-Analysis">Supply Chain Risk Analysis</a>|
 | Technology Proficiency                        | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
 | Advanced Security Infrastructure Design       | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
 | Policy Development and Compliance             | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
