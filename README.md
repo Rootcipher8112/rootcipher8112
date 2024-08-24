@@ -7,7 +7,7 @@ I am graduating this year with a degree in Information Security and have a love 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into the field. Specifically I'm aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+# Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -36,7 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | AI integrations and Automations for business    | <a href="https://synergy-ai.square.site">Synergy-AI</a> |
 
 
-## Tools 
+# Tools 
 
 ### Network
 <div>
@@ -86,7 +86,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zapier-FFA500?&style=for-the-badge&logo=zapier&logoColor=white" />
 </div>
 
-## Certifications
+# Certifications
 <div>
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -96,11 +96,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Lean_Six_Sigma_Green_Belt-28a745?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZElEQVR42mJ8fPBx+AwhEIAVmiMjMFCAQcATiM7kxgAkNgwG9IiKoAAAAASUVORK5CYII=" />
 </div>
 
-## Projects
+# Projects
 - Enterprise Network Lab
 - SOC Automation Project
 - Security Incident Response Form
 - Incident Response Report
+- Security Strategy Implementation Recommendations
 - Supply Chain Risk Analysis
 - Synergy-AI
 
