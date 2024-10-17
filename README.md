@@ -48,16 +48,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vultr-DC322F?&style=for-the-badge&logo=Vultr&logoColor=white" />
     <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?&style=for-the-badge&logo=DigitalOcean&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linode-00A76F?&style=for-the-badge&logo=Linode&logoColor=white" />
 </div>
 
 ### SIEM / EDR
 <div>
+    <img src="https://img.shields.io/badge/-ELK-00A76F?&style=for-the-badge&logo=ELK&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-4B8BBE?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-LimaCharlie-0077CC?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-990000?&style=for-the-badge&logo=TheHive&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
@@ -79,7 +80,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-MISP-FF6600?&style=for-the-badge&logo=misp-project&logoColor=white" />
 </div>
 
-### AI
+### Ticketing / Case Management
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-990000?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-osTicket-0099FF?&style=for-the-badge&logo=osTicket&logoColor=white" />
+<div/>
+    
+### AI / Automation
 <div>
     <img src="https://img.shields.io/badge/-Botpress-32C283?&style=for-the-badge&logo=Botpress&logoColor=white" />
     <img src="https://img.shields.io/badge/-Stack_AI-764ABC?&style=for-the-badge&logo=stack-overflow&logoColor=white" />
@@ -91,6 +98,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_AZ--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-SOC_Level_1-3498DB?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-CompTIA_IT_Operations_Specialist-0077CC?&style=for-the-badge&logo=compTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Lean_Six_Sigma_Green_Belt-28a745?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZElEQVR42mJ8fPBx+AwhEIAVmiMjMFCAQcATiM7kxgAkNgwG9IiKoAAAAASUVORK5CYII=" />
