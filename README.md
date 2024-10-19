@@ -5,7 +5,7 @@ I am graduating this year with a degree in Information Security and have a love 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into the field. Specifically I'm aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into the field. Specifically I'm aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Much of my experience has come from hands on projects completed in homemade virtual environments. I also write a blog detailing current events relaited to cybersecurity and AI. Here I offer interesting breakdowns of data breaches, various hacking groups but most of all I offer useful tips for the readers to implement that can help to make them more secure.
 
 # Skills
 
