@@ -29,6 +29,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Supply Chain Risk Management                  | <a href="https://github.com/Rootcipher8112/Supply-Chain-Risk-Analysis">Supply Chain Risk Analysis</a>|
 | Vendor Management and Evaluation              | <a href="https://github.com/Rootcipher8112/Supply-Chain-Risk-Analysis">Supply Chain Risk Analysis</a>|
 | Process Improvement and Quality Assurance     | <a href="https://github.com/Rootcipher8112/Supply-Chain-Risk-Analysis">Supply Chain Risk Analysis</a>|
+| E-Commerce Security Architecture                  | <a href="https://github.com/Rootcipher8112/E-Commerce-Risk-Analysis">E-Commerce Risk Analysis</a>|
+| Risk Mitigation Strategy Development              | <a href="https://github.com/Rootcipher8112/E-Commerce-Risk-Analysis">E-Commercen Risk Analysis</a>|
+| Payment Card Industry (PCI) Compliance     | <a href="https://github.com/Rootcipher8112/E-Commerce-Risk-Analysis">E-Commerce Risk Analysis</a>|
 | Technology Proficiency                        | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
 | Advanced Security Infrastructure Design       | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
 | Policy Development and Compliance             | <a href="https://github.com/Rootcipher8112/Security-Strategy-Implementation-Recommendations">Security Strategy Implementation Recommendations</a>|
@@ -107,9 +110,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 # Projects
 - Enterprise Network Lab
 - SOC Automation Project
+- SOC Analyst Environment Project
 - Security Incident Response Form
 - Incident Response Report
 - Security Strategy Implementation Recommendations
 - Supply Chain Risk Analysis
+- E-Commercen Risk Analysis
 - Synergy-AI
 
