@@ -146,6 +146,4 @@ This document outlines essential cybersecurity frameworks and standards that hel
 - **Regulations**: Not regulatory but complements compliance efforts for frameworks like **CMMC** and **GDPR**.
 - **Industry Use**: Adopted by organizations for practical security improvement and defense against common threats.
 
----
 
-This enhanced list provides deeper insights into each cybersecurity framework, including regulations, subcomponents, and notable practices. Let me know if you would like more details on any specific framework or need additional information!
