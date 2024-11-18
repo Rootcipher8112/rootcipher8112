@@ -1,7 +1,7 @@
 # Hello, I'm Jason
 <a href="https://linkedin.com/in/synergy-ai"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am graduating this year with a degree in Information Security and have a love for cybersecurity as well as AI. In my previous career I developed into a strong leader pushing myself as well as my teams to achieve at a high level.
+I am graduating in a few weeks with a degree in Information Security and have a love for cybersecurity as well as AI. In my previous career I developed into a strong leader pushing myself as well as my teams to achieve at a high level.
 
 ## Objective
 
