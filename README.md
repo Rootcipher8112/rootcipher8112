@@ -1,7 +1,7 @@
 # Hello, I'm Jason
 <a href="https://linkedin.com/in/synergy-ai"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have degree in Information Security and have a love for cybersecurity as well as AI. In my previous career I developed into a strong leader pushing myself as well as my teams to achieve at a high level.
+I have degree in Information Security and have a love for cybersecurity as well as AI. I hold several industry certifications and completed the projects listed below. I am the author of Beyond The Firewall, a weekly substack geared toward educating tech and non tech individuals through engaging story telling. I offer my audience value through easy to digest content and actionable steps to keep their digital presence more secure. I believe proper education is the first step to a robust security plan.
 
 ## Objective
 
