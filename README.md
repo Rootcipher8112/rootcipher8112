@@ -1,11 +1,10 @@
 # Hello, I'm Jason
-<a href="https://linkedin.com/in/synergy-ai"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/beyondthefirewall"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have degree in Information Security and have a love for cybersecurity as well as AI. I hold several industry certifications and completed the projects listed below. I am the author of Beyond The Firewall, a weekly substack geared toward educating tech and non tech individuals through engaging story telling. I offer my audience value through easy to digest content and actionable steps to keep their digital presence more secure. I believe proper education is the first step to a robust security plan.
+I am a data privacy strategist and cybersecurity consultant.
 
-## Objective
+I have degree in Information Security and have a love for cybersecurity as well as AI. I hold several industry certifications and completed the projects listed below. I am also the author of Beyond The Firewall, a substack publication dedicated to educating the audience on proper data privacy strategies. I offer my audience value through easy to digest content and actionable steps to keep their digital presence more secure. I believe proper education is the first step to a robust security plan.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into the field. Specifically I'm aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Much of my experience has come from hands on projects completed in homemade virtual environments. I also write a blog detailing current events relaited to cybersecurity and AI. Here I offer interesting breakdowns of data breaches, various hacking groups but most of all I offer useful tips for the readers to implement that can help to make them more secure.
 
 # Skills
 
